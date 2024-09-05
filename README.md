@@ -28,4 +28,4 @@ Views of project at different instants are as follows:
 ## 5)Setting the Month
 ![set month](https://user-images.githubusercontent.com/97884235/178207598-1153b33c-e03a-4d75-8beb-518df1d5fc35.png)
 
-This project is implemented on Tinkercad platform and link is attached here --> https://www.tinkercad.com/things/7MicM0rUg2C-digital-clock/editel?sharecode=4M4oMoQzViJdAxnvvu0fw-z7ishWTLRHCCYLSHib21I
+This project is implemented on Tinkercad platform and link is attached here --> [https://www.tinkercad.com/things/7MicM0rUg2C-digital-clock/editel?sharecode=4M4oMoQzViJdAxnvvu0fw-z7ishWTLRHCCYLSHib21I](https://www.tinkercad.com/things/0UqQDm5SZij-digital-watch/editel?sharecode=JJ-mXI85IweuYrbvDxTZ8gF1tncDKbu8CCq3XHZQ6f4)
